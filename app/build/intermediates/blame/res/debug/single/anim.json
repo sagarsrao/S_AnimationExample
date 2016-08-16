@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_AnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "E:\\sagar_new_android\\Android-master\\S_AnimationExample\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_AnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "E:\\sagar_new_android\\Android-master\\S_AnimationExample\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_AnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale.xml",
+        "source": "E:\\sagar_new_android\\Android-master\\S_AnimationExample\\app\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_AnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "E:\\sagar_new_android\\Android-master\\S_AnimationExample\\app\\src\\main\\res\\anim\\translate.xml"
+    }
+]

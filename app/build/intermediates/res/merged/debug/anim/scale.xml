@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="10000"
+    android:fromXScale="4"
+    android:fromYScale="3"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:toXScale="1"
+    android:toYScale="1" />
+<!-- 
+fromX	Horizontal scaling factor to apply at the start of the animation
+toX	Horizontal scaling factor to apply at the end of the animation
+fromY	Vertical scaling factor to apply at the start of the animation
+toY	Vertical scaling factor to apply at the end of the animation
+
+
+pivotX	The X coordinate of the point about which the object is being scaled, 
+specified as an absolute number where 0 is the left edge. 
+(This point remains fixed while the object changes size.)
+pivotY	The Y coordinate of the point about which the object is being scaled, 
+specified as an absolute number where 0 is the top edge. 
+(This point remains fixed while the object changes size.)
+
+
+ -->
+ 

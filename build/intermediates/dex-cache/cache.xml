@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\sagar_new_android\Android-master\S_AnimationExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1466de9dd0162c32f1cd9667748d72d15469dcb8">
+        <dex dex="E:\sagar_new_android\Android-master\S_AnimationExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da8f690d92bd6661a0d6e1126b0b6464d5793083\classes.dex" />
+    </item>
+    <item
+        jar="E:\sagar_new_android\Android-master\S_AnimationExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="544e992279cbd887b39dc1bfb560d68bd0d6b69e">
+        <dex dex="E:\sagar_new_android\Android-master\S_AnimationExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_173f612a2f171d92f5d943a9a218b6607a3b60ca\classes.dex" />
+    </item>
+
+</items>
